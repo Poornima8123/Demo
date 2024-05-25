@@ -1,2 +1,2 @@
 # Demo
-It is my first projecr
+It is my first project
